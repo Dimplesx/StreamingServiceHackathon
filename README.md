@@ -1,1 +1,1 @@
-Jupyter notebook containing Python code that loads and cleans the provided Netflix streaming service data (from Kaggle, 2019: https://www.kaggle.com/datasets/shivamb/netflix-shows), and then analyses the data to provide trends and insights.
+Jupyter notebook containing Python code that loads and cleans the provided Netflix streaming service data (from Kaggle: https://www.kaggle.com/datasets/shivamb/netflix-shows), and then analyses the data to provide trends and insights.
